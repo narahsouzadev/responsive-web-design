@@ -1,5 +1,5 @@
-# freeCodeCamp
-My solutions to the freeCodeCamp Responsive Web Design challenges.
+# Responsive Web Design
+My solutions to the **freeCodeCamp** *Responsive Web Design* challenges.
 
 ## Projects
 - [Tribute Page](./tribute-page/)
